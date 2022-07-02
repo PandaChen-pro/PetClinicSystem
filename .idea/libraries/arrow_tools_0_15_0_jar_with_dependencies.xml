@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="arrow-tools-0.15.0-jar-with-dependencies">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/arrow-tools-0.15.0-jar-with-dependencies.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/arrow-tools-0.15.0-jar-with-dependencies.jar!/codegen/templates" />
+    </SOURCES>
+  </library>
+</component>

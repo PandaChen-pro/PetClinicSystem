@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="petsystem">
+    <output-path>$PROJECT_DIR$/out/artifacts/petsystem</output-path>
+    <root id="archive" name="petsystem.war" />
+  </artifact>
+</component>
